@@ -18,9 +18,8 @@
 
 - 🎓 Student
 - 📱 Learning Flutter & Dart
-- 💻 Building Mobile Apps
-- 🔥 Interested in UI/UX
-- 🌱 Learning Firebase
+- 💻 Learning Digital Marketing
+- 🔥 Building Mobile Apps
 - 🚀 Goal: Become a Professional Flutter Developer
 
 ---
