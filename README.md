@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 
 <h3 align="center">
-Flutter Developer 🚀 | Dart Learner 📚 | Open Source Enthusiast 💻 | Pakistan 🇵🇰
+ Dart Learner 📚| Flutter Developer 🚀| Pakistan 🇵🇰|
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Flutter Developer 🚀 | Dart Learner 📚 | Open Source Enthusiast 💻 | Pakis
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="500">
 </p>
 
 ---
