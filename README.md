@@ -22,23 +22,7 @@
 - 🔥 Building Mobile Apps
 - 🚀 Goal: Become a Professional Flutter Developer
 
----
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/Code-By-Ahmed23">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-</p>
 
 ---
 
