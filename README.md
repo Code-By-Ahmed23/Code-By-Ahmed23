@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
 
-<!--
-**Code-By-Ahmed23/Code-By-Ahmed23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Flutter Developer 🚀 | Dart Learner 📚 | Open Source Enthusiast 💻 | Pakistan 🇵🇰
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Flutter+Developer;Learning+Dart+Everyday;Building+Awesome+Apps;Always+Learning+New+Things!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420">
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Student
+- 📱 Learning Flutter & Dart
+- 💻 Building Mobile Apps
+- 🔥 Interested in UI/UX
+- 🌱 Learning Firebase
+- 🚀 Goal: Become a Professional Flutter Developer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Code-By-Ahmed23">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,html,css,cpp"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Code-By-Ahmed23&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Code-By-Ahmed23&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-By-Ahmed23&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Code-By-Ahmed23&theme=tokyonight&row=1&column=6)
+
+---
+
+## 📈 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Code-By-Ahmed23&theme=tokyo-night)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Code-By-Ahmed23&label=Profile+Views&color=blue)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/Code-By-Ahmed23/Code-By-Ahmed23/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Thanks for visiting my profile!
