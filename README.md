@@ -67,5 +67,8 @@
 ![Snake](https://raw.githubusercontent.com/Code-By-Ahmed23/Code-By-Ahmed23/output/github-contribution-grid-snake.svg)
 
 ---
+## 💬 Quote
+
+> ✨ **Turning Ideas into Reality. 💡💻🚀**
 
 ⭐ Thanks for visiting my profile!
